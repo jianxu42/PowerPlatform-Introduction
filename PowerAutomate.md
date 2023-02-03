@@ -1,4 +1,5 @@
 ## Power Automate
+
 * [Get started](https://learn.microsoft.com/en-us/power-automate/getting-started)
 
 * [Types of flows](https://learn.microsoft.com/en-us/power-automate/flow-types)
