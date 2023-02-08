@@ -3,7 +3,11 @@
 * [Get started](https://learn.microsoft.com/en-us/power-automate/getting-started)
 
 * [Types of flows](https://learn.microsoft.com/en-us/power-automate/flow-types)
-  
+
+* [Schema reference guide for trigger and action types](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
+
+* [Reference guide to workflow expression functions](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
+
 * [Connectors overview](https://learn.microsoft.com/en-us/Connectors/connectors)
 
 * [Create a cloud flow in Power Automate](https://learn.microsoft.com/en-us/power-automate/get-started-logic-flow)
