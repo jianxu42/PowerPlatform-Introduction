@@ -10,7 +10,7 @@
   
 * [Add multiple actions and advanced options to a cloud flow](https://learn.microsoft.com/en-us/power-automate/multi-step-logic-flow)
 
-* [Create a cloud flow by using Dynamics 365 (online)](https://learn.microsoft.com/en-us/power-automate/connection-dynamics365)
+* [Overview of how to integrate Power Automate flows with Dataverse](https://learn.microsoft.com/en-us/power-automate/connection-dynamics365)
 
 * [Trigger flows when a row is added, modified, or deleted](https://learn.microsoft.com/en-us/power-automate/dataverse/create-update-delete-trigger)
 
