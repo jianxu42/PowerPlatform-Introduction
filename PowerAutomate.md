@@ -4,9 +4,9 @@
 
 * [Types of flows](https://learn.microsoft.com/en-us/power-automate/flow-types)
 
-- [x][Schema reference guide for trigger and action types](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
+- [x] [Schema reference guide for trigger and action types](https://learn.microsoft.com/en-us/azure/logic-apps/logic-apps-workflow-actions-triggers)
 
-- [x][Reference guide to workflow expression functions](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
+- [x] [Reference guide to workflow expression functions](https://learn.microsoft.com/en-us/azure/logic-apps/workflow-definition-language-functions-reference)
 
 * [Connectors overview](https://learn.microsoft.com/en-us/Connectors/connectors)
 
@@ -30,4 +30,4 @@
   
 * [Get started with approvals](https://learn.microsoft.com/en-us/power-automate/get-started-approvals)
 
-- [x][Limits for automated, scheduled, and instant flows](https://learn.microsoft.com/en-us/power-automate/limits-and-config)
+- [x] [Limits for automated, scheduled, and instant flows](https://learn.microsoft.com/en-us/power-automate/limits-and-config)
