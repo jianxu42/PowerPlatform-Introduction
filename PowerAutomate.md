@@ -29,3 +29,5 @@
 * [Use a flow to delete a row from Dataverse](https://learn.microsoft.com/en-us/power-automate/dataverse/delete-row)
   
 * [Get started with approvals](https://learn.microsoft.com/en-us/power-automate/get-started-approvals)
+
+* [Limits for automated, scheduled, and instant flows](https://learn.microsoft.com/en-us/power-automate/limits-and-config)
